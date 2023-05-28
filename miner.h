@@ -20,6 +20,7 @@ class Miner
 private:
 
 	int status;//0:stop	1:work
+	
 public:
 	int x;
 	int y;
